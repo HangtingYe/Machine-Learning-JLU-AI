@@ -5,7 +5,8 @@ __Please star, watch, and fork ML_JLU_AI for the active updates!__
 Contributors: Dandan Guo, Hangting Ye, Zhuo Li, Jintong Gao, Jiani Ni, Jinhan Liu
 
 ## File description
+* ```Lecture is used for storing the ml courses```
+
 * ```Seminar is used for storing the weekly seminar materials```
 
-* ```Lecture is used for storing the ml courses```
 

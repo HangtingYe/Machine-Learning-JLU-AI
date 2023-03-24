@@ -8,4 +8,4 @@ __Please star, watch, and fork ML_JLU_AI for the active updates!__
 * ```Lecture is used for storing the ml courses```
 
 
-## Contributors: Dandan Guo, Hangting Ye, Zhuo Li, Jintong Gao, Jiani Ni, Jinhan Liu
+Contributors: Dandan Guo, Hangting Ye, Zhuo Li, Jintong Gao, Jiani Ni, Jinhan Liu

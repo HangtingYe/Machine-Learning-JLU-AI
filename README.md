@@ -3,9 +3,9 @@ This repository is used for storing the lecture, seminar records of machine lear
 __Please star, watch, and fork ML_JLU_AI for the active updates!__
 
 ## File description
-* Seminar is used for storing the weekly seminar materials.
+* ```Seminar is used for storing the weekly seminar materials```
 
-* Lecture is used for storing the ml courses.
+* ```Lecture is used for storing the ml courses```
 
 
 Contributors: Dandan Guo, Hangting Ye, Zhuo Li, Jintong Gao, Jiani Ni, Jinhan Liu
